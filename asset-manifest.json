@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/dealnodeal/static/css/main.177add63.chunk.css",
+    "main.js": "/dealnodeal/static/js/main.fe8fbfa2.chunk.js",
+    "main.js.map": "/dealnodeal/static/js/main.fe8fbfa2.chunk.js.map",
+    "runtime-main.js": "/dealnodeal/static/js/runtime-main.0f22c9bc.js",
+    "runtime-main.js.map": "/dealnodeal/static/js/runtime-main.0f22c9bc.js.map",
+    "static/js/2.97f8ad41.chunk.js": "/dealnodeal/static/js/2.97f8ad41.chunk.js",
+    "static/js/2.97f8ad41.chunk.js.map": "/dealnodeal/static/js/2.97f8ad41.chunk.js.map",
+    "index.html": "/dealnodeal/index.html",
+    "precache-manifest.dcc12cd9208228d05be6dcee66bba537.js": "/dealnodeal/precache-manifest.dcc12cd9208228d05be6dcee66bba537.js",
+    "service-worker.js": "/dealnodeal/service-worker.js",
+    "static/css/main.177add63.chunk.css.map": "/dealnodeal/static/css/main.177add63.chunk.css.map",
+    "static/js/2.97f8ad41.chunk.js.LICENSE.txt": "/dealnodeal/static/js/2.97f8ad41.chunk.js.LICENSE.txt",
+    "static/media/background.jpg": "/dealnodeal/static/media/background.a3af13d3.jpg",
+    "static/media/closed-case.png": "/dealnodeal/static/media/closed-case.76ceefa8.png",
+    "static/media/happy.png": "/dealnodeal/static/media/happy.3d2c4d48.png",
+    "static/media/open-case.png": "/dealnodeal/static/media/open-case.0bc4cb60.png",
+    "static/media/sad.png": "/dealnodeal/static/media/sad.500b4692.png",
+    "static/media/title.png": "/dealnodeal/static/media/title.c31c1a61.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f22c9bc.js",
+    "static/js/2.97f8ad41.chunk.js",
+    "static/css/main.177add63.chunk.css",
+    "static/js/main.fe8fbfa2.chunk.js"
+  ]
+}
