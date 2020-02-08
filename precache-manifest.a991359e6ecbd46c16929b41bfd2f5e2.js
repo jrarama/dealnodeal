@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "42afa5f1537fbe4b1c87bae53e3c6c39",
+    "revision": "17046e305278242d91069591f44d864f",
     "url": "/dealnodeal/index.html"
   },
   {
-    "revision": "cf78fd41847b9be010f4",
+    "revision": "37384895603f8ab9288b",
     "url": "/dealnodeal/static/css/main.177add63.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dealnodeal/static/js/2.97f8ad41.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cf78fd41847b9be010f4",
-    "url": "/dealnodeal/static/js/main.fe8fbfa2.chunk.js"
+    "revision": "37384895603f8ab9288b",
+    "url": "/dealnodeal/static/js/main.cf8e9504.chunk.js"
   },
   {
     "revision": "e74d9dfcb5d7f16c9af8",
@@ -44,7 +44,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dealnodeal/static/media/sad.500b4692.png"
   },
   {
-    "revision": "c31c1a617a2ec45dff3a54500f2aac9d",
-    "url": "/dealnodeal/static/media/title.c31c1a61.png"
+    "revision": "e287666023213cc49969e3059e515b77",
+    "url": "/dealnodeal/static/media/title.e2876660.png"
   }
 ]);
